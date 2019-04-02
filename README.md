@@ -1,12 +1,12 @@
-<>first and last Name>>
+Raju Yadav
 
-<<Degree and Major(s)>>
+B.S. in Economics
 
-Email: <enter email address>
+Email: raju.yadav@spartans.ut.edu
 
 
 ## About Me
 
-<<insert and one or two sentence introduction to yourself.>>
+Finance
 
 
